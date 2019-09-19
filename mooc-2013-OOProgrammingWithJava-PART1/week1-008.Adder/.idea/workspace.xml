@@ -10,6 +10,7 @@
   </component>
   <component name="ProjectId" id="1QwfjKArUo0t55o06XUCsb2QYIX" />
   <component name="PropertiesComponent">
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
