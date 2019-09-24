@@ -7,13 +7,15 @@ public class Temperatures {
 
         Scanner reader = new Scanner(System.in);
         // Write your code here. 
+        while(true){
+            System.out.print("Input temperature: ");
+            double temp = Double.parseDouble(reader.nextLine());
 
-        // Graph is used as follows:
-        Graph.addNumber(7);
-        double value = 13.5;
-        Graph.addNumber(value);
-        value = 3;
-        Graph.addNumber(value);
-        // Remove or comment out these lines above before trying to run the tests.
+            if(temp < -30 || temp >40){
+                continue;
+            }else {
+                Graph.addNumber(temp);
+            }
+        }
     }
 }
