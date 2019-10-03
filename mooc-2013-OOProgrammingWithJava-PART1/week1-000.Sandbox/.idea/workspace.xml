@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="682d1581-7805-402e-bb20-5e33d03fbe0e" name="Default Changelist" comment="" />
+    <list default="true" id="682d1581-7805-402e-bb20-5e33d03fbe0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../week3-054.TheEndPart/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week3-054.TheEndPart/.idea/week3-054.TheEndPart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-054.TheEndPart/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-054.TheEndPart/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-054.TheEndPart/src/TheEndPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-054.TheEndPart/src/TheEndPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-055.WordInsideWord/src/WordInsideWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-055.WordInsideWord/src/WordInsideWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-056.ReversingText/src/ReversingText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-056.ReversingText/src/ReversingText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-057.Words/src/Words.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-057.Words/src/Words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-058.RecurringWord/src/RecurringWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-058.RecurringWord/src/RecurringWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/src/WordsInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-059.WordsInReverseOrder/src/WordsInReverseOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-060.WordsInAlphabeticalOrder/src/WordsInAlphabeticalOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-060.WordsInAlphabeticalOrder/src/WordsInAlphabeticalOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-061.NumberOfItems/src/NumberOfItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-061.NumberOfItems/src/NumberOfItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-062.RemoveLast/src/RemoveLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-062.RemoveLast/src/RemoveLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-063.SumOfNumbers/src/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-063.SumOfNumbers/src/SumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-064.AverageOfNumbers/src/AverageOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-064.AverageOfNumbers/src/AverageOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-065.LengthsOfStrings/src/LengthsOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-065.LengthsOfStrings/src/LengthsOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-066.TheGreatest/src/TheGreatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-066.TheGreatest/src/TheGreatest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-067.TheVariance/src/Variance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-067.TheVariance/src/Variance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-068.MoreThanOnce/src/MoreThanOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-068.MoreThanOnce/src/MoreThanOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-069.Palindrome/src/Palindromi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-069.Palindrome/src/Palindromi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-070.CombiningArrayLists/src/CombiningArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-070.CombiningArrayLists/src/CombiningArrayLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week3-071.SmartCombining/src/SmartCombining.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week3-071.SmartCombining/src/SmartCombining.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1Q2AsCA0HeOwDJRluVuocJbQplc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -38,5 +64,16 @@
       <updated>1566958521402</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
