@@ -14,13 +14,24 @@ public class LotteryNumbers {
     }
 
     public void drawNumbers() {
-        // We'll format a list for the numbers
+        Random randomizer = new Random();
         this.numbers = new ArrayList<Integer>();
-        // Write the number drawing here using the method containsNumber()
+        while(true){
+            int num = randomizer.nextInt(39) + 1;
+
+            if (containsNumber(num)) {
+                continue;
+            }else{
+                this.numbers.add(num);
+            }
+
+            if(this.numbers.size() == 7){
+                break;
+            }
+        }
     }
 
     public boolean containsNumber(int number) {
-        // Test here if the number is already in the drawn numbers
-        return true;
+        return this.numbers.contains(number);
     }
 }
