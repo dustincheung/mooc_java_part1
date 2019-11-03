@@ -30,4 +30,26 @@ public class MyDate {
         return false;
     }
 
+    public int differenceInYears(MyDate comparedDate){
+        if(this.earlier(comparedDate)){
+            if(this.month > comparedDate.month){
+                return comparedDate.year - this.year - 1;
+            }else if(this.month == comparedDate.month){
+                if(this.day > comparedDate.day){
+                    return comparedDate.year - this.year - 1;                }
+            }
+            return comparedDate.year - this.year;
+        }else{
+            if(this.month < comparedDate.month){
+                return this.year - comparedDate.year - 1;
+            }else if(this.month == comparedDate.month){
+                if(this.day < comparedDate.day){
+                    return this.year - comparedDate.year - 1;
+                }
+            }
+            return this.year - comparedDate.year;
+        }
+
+    }
+
 }
